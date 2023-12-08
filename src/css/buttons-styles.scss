@@ -1,0 +1,29 @@
+.btn-small {
+  width: 116px;
+  height: 28px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.btn-large {
+  width: 160px;
+  height: 39px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.btn-extra-large {
+  width: 340px;
+  height: 39px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.pink-filled-btn {
+  background: $primary-pink;
+  color: $grey-1;
+  font-size: 18px !important;
+}

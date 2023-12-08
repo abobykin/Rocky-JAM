@@ -1,0 +1,28 @@
+.primary-lighten-bg {
+  background-color: $primary-lighten-bg;
+}
+
+.deep-pink-bg {
+  background-color: $primary-pink-darken;
+}
+
+.pink-bg {
+  background-color: $primary-pink;
+}
+
+.pink-color {
+  color: $primary-pink;
+}
+
+.deep-pink-color {
+  color: $primary-pink-darken;
+}
+
+.popup-content {
+  border-bottom-left-radius: 16px; /* Нижний левый угол */
+  border-bottom-right-radius: 16px;
+}
+
+.list-content {
+  border-radius: 16px;
+}
